@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">MIAGE-Berwit_Yonnel-Leothaud_Mathieu</string>
-    <string name="title">Local Date</string>
-    <string name="text_button_start_here">Date here and now !</string>
-    <string name="text_button_start">Date now over there !</string>
-    <string name="text_button_invitations">My invitations !</string>
-</resources>
